@@ -1,14 +1,16 @@
-print("I will now count my chickness:")
-print("hens", 25+30/6)
-print("Rooster" 100-25*3%4)
-print("now i willl count the eggs")
-print(3+2+1-54%2-1/4_+6)
-print("is it true that 3+2<5-7?")
-print(3+2<5-7)
-print(("what is 3+?", 3+2)
-print("what is 5-7?" 5-7)
-print("oh, that's why it is false.")
-print("how about some more")
-print("is it greater?",5>-2)
-print("is it greater or eaual?"5>= -2)
-print("is it less or equal?", 5 <= -2)
+print((25+3)*75.3)
+print((35/3)*(25+4.9))
+from decimal import Decimal
+print((Decimal('42.2')+Decimal('37.403'))*(7%4+3-2*7))
+
+first_name="ganesh"
+last_name="hamsbavi"
+age=23
+print(first_name,last_name,age)
+from fractions import Fraction
+
+first_name="ganesh"
+print(first_name)
+first_name=27
+print(first_name)
+
