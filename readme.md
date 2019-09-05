@@ -1,4 +1,6 @@
-created new 
+created new repoitory file- tarzanskills
+created readme.md file and day2.py file
+
 <ON MASTER BRANCH AND BRANCH>
 There is a main master branch
 every one on the project will work on the copies of the master branch code at his branch
