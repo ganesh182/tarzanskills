@@ -11,3 +11,5 @@ sum = phy+bio+che+ss+eng+hin
 per = (sum/600)
 print("hello " + name)
 print("you have scored" , per )
+
+

@@ -23,4 +23,3 @@ similarly use ( from fractions import Fraction)
 3.examples // first_name=20
               first_name=ganesh
               both can be stored in the name
-              s
